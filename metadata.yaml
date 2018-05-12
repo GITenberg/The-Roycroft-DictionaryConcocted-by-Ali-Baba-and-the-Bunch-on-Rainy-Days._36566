@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36566#The-Roycroft-DictionaryConcocted-by-Ali-Baba-and-the-Bunch-on-Rainy-Days.
 gutenberg_issued: '2011-06-30'
 gutenberg_type: Text
 identifiers:
