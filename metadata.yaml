@@ -1,0 +1,32 @@
+_repo: The-Roycroft-DictionaryConcocted-by-Ali-Baba-and-the-Bunch-on-Rainy-Days._36566
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36566-h/images/i_cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Ali Baba
+    - Elbertus, Fra
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2011-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dictionaries -- Humor'
+- !lcc 'PS'
+- !lcsh 'English language -- Semantics -- Humor'
+- !lcsh 'Vocabulary -- Humor'
+title: The Roycroft Dictionary, Concocted by Ali Baba and the Bunch on Rainy Days.
+url: http://www.gutenberg.org/ebooks/36566
